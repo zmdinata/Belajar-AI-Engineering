@@ -1,0 +1,14 @@
+Pada intinya kita menulis logika awal secara tersruktur tanpa menulis sebuah syntax seperti di Bawah ini lalu setelah selesai kita akan menuliskannya menggunalan Bahasa pemrograman yg kita mau:
+
+Get input email from user
+
+Get input password from user
+
+
+Check input users
+If (email and password equals to data on database)
+	Go to homepage
+else
+	PRINT login gagal, silahkan ulangin Kembali
+	User input email and password again
+END IF
